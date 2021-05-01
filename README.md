@@ -1,5 +1,11 @@
 # fiap-digital-business
 
+Config to start wildfly
+
+Run MySQL Localhost on port 3307
+
+![JbossWildFly](img/img.png?raw=true "JBoss/WildFly_23.0.1.Final")
+
 ```
 .
 ├── README.md
